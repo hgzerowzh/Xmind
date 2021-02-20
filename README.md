@@ -22,9 +22,9 @@ Linux运维方面的一些思维导图。
 
 #### Shell脚本编程
 
-#### MySQL
+#### MySQL基础及集群架构
 
-#### Ubuntu
+#### Ubuntu基础
 
 #### 自动化运维
 
