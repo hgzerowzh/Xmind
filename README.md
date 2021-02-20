@@ -1,29 +1,32 @@
 # Xmind
+
+一些学习笔记绘制成的思维导图。
+
 ## Books
 
-读书笔记相关的思维导图
+读书笔记相关的思维导图。
 
 ## English_Learning
 
-英语学习相关的思维导图
+英语学习相关的思维导图。
 
 ## Operator
 
-Linux运维方面的一些思维导图
+Linux运维方面的一些思维导图。
 
-### Linux基础
+#### Linux基础
 
-### Linux服务
+#### Linux服务
 
-### Linux集群
+#### Linux集群
 
-### Shell脚本编程
+#### Shell脚本编程
 
-### MySQL
+#### MySQL
 
-### Ubuntu
+#### Ubuntu
 
-### 自动化运维
+#### 自动化运维
 
 
 
